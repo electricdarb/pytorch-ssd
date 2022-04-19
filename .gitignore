@@ -23,3 +23,7 @@ __pycache__/
 
 # pyenv
 .python-version
+
+wandbkey
+/wandb
+/wandb/*
