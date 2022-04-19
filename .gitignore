@@ -2,12 +2,11 @@
 .idea
 log
 data
-models
 
 eval_results/
 
 # Pytorch Models
-*.pth
+
 
 # images
 *.jpg
